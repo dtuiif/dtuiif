@@ -1,0 +1,229 @@
+.myoverlay {
+  position: relative;
+  z-index: 1;
+  background: url("../images/fistbump.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.myoverlay:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.myoverlay:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.justifytext {
+  text-align: justify;
+}
+
+
+
+
+.contact_1 {
+  position: relative;
+  z-index: 1;
+  background: #2f1893 url(../images/contactbg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.contact_1:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.contact_1:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.overlayabout {
+  position: relative;
+  z-index: 1;
+  background: url("../images/aboutbg.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.overlayabout:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.overlayabout:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.overlayteam {
+  position: relative;
+  z-index: 1;
+  background: url("../images/teambg.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.overlayteam:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.overlayteam:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.overlaystartups {
+  position: relative;
+  z-index: 1;
+  background: url("../images/startuplistbg.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.overlaystartups:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.overlaystartups:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.overlaycompany {
+  position: relative;
+  z-index: 1;
+  background: url("../images/companybg.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.overlaycompany:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.overlaycompany:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.overlayapply {
+  position: relative;
+  z-index: 1;
+  background: url("../images/apply.jpg") no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.overlayapply:after {
+  content: "";
+  height: auto;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.overlayapply:after {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+
+
+
+.text-align-right {
+  text-align: right;
+}
+
+
+
+
+.apply-btn,
+.apply-btn2 {
+  text-align: center;
+  color: rgba(255,255,255,0.9);
+  border-radius: 50px;
+  background: linear-gradient(-45deg, #ffa63d, #ff3d77, #338aff, #3cf0c5);
+  background-size: 600%;
+  -webkit-animation: anime 16s linear infinite;
+          animation: anime 16s linear infinite;
+}
+.apply-btn2 {
+  position: absolute;
+  margin-top: -70px;
+  z-index: -1;
+  -webkit-filter: blur(30px);
+          filter: blur(30px);
+  opacity: 0.8;
+}
+@-webkit-keyframes anime {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes anime {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
