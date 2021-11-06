@@ -1,7 +1,7 @@
 .myoverlay {
   position: relative;
   z-index: 1;
-  background: url("../images/fistbump.jpg") no-repeat;
+  background: url("../images/home\ page.jpg") no-repeat ;
   background-size: cover;
   background-position: center center;
 }
@@ -21,14 +21,9 @@
 }
 
 
-
-
 .justifytext {
   text-align: justify;
 }
-
-
-
 
 .contact_1 {
   position: relative;
