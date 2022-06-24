@@ -1,0 +1,322 @@
+<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							<h5 class="card-title">AmperePlus</h5>
+							<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni, porro!</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+					</div>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/jxr.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">JXR Technologies</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">JXR Technologies</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/legasci.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Legasci</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Legasci</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/proxima.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Proxima Advertising</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Proxima Advertising</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/seutus.html" class="mt-50 link color-main">
+					<!-- <img src="./images/seutus.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Seutus</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Seutus</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/wasteonwheels.html" class="mt-50 link color-main">
+					<!-- <img src="./images/wasteonwheels.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Waste On Wheels</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Waste on Wheels</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/projexel.html" class="mt-50 link color-main">
+					<!-- <img src="./images/projexel.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Projexel India</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Projexel India</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/vehicool.html" class="mt-50 link color-main">
+					<!-- <img src="./images/vehicool.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Vehicool</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Vehicool</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/cypherock.html" class="mt-50 link color-main">
+					<!-- <img src="./images/cypherock.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Cypherock</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Cypherock</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/bookscroll.html" class="mt-50 link color-main">
+					<!-- <img src="./images/bookscroll.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Bookscroll</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Bookscroll</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/zefilabs.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Zefi Labs</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Zefi Labs</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/zalvit.html" class="mt-50 link color-main">
+					<!-- <img src="./images/zalvit.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Zalvit</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Zalvit</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/waaris.html" class="mt-50 link color-main">
+					<!-- <img src="./images/waaris.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Waaris</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Waaris</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/step.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">STEP</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">STEP</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/sportsapp.html" class="mt-50 link color-main">
+					<!-- <img src="./images/sportsapp.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">SportsApp</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">SportsApp</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/eazypg.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Eazy PG</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Eazy PG</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/ioteraction.html" class="mt-50 link color-main">
+					<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">IOTeraction</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">IOTeraction</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
+
+			<div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<a href="./startups/dhannoo.html" class="mt-50 link color-main">
+					<!-- <img src="./images/dhannoo.jpg" class="radius10 img-fluid" alt="" /> -->
+					<!-- <div class="mt-20 mb-15 f-22 title">Dhannoo</div> -->
+					<div class="card-container">
+						<div class="card card-flip">
+						  <div class="front card-block">
+								<img src="./images/DTU-IIF.jpg" alt="" class="card-logo">
+							</div>
+							<div class="back card-block">
+							  <h5 class="card-title">Dhannoo</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque laborum nisi veritatis laboriosam Lorem ipsum dolor sit amet.</p>
+						  </div>
+						</div>
+					  </div>
+				</a>
+			</div>
