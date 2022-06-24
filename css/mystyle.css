@@ -243,7 +243,7 @@
 
 .card-container {
   width: 256px;
-  height: 256px;
+  height: 300px;
   cursor: pointer;
 }
 .card-flip {
