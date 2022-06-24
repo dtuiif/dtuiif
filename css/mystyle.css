@@ -242,9 +242,10 @@
 }
 
 .card-container {
-  width: 256px;
+  width: 80%;
   height: 300px;
   cursor: pointer;
+  margin: 0% 10% 0% 10%;
 }
 .card-flip {
   position: relative;
