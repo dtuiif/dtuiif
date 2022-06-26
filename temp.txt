@@ -1,3 +1,101 @@
+<div class="col-lg-4 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/startups/echio.png" alt="" class="card-logo">
+							<h5 class="card-title">Echio</h5>
+							<p>Echio is basically an Advanced and AI inclined influencer marketing company. We basically deal for both influencers and companies</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="http://echio.in/" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/startups/wallnut.png" alt="" class="card-logo">
+							<h5 class="card-title">Walnut</h5>
+							<p>Walnut is India's 1st social media platform only for health and well being.
+								Walnut is a platform focused on community based healthcare</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="https://walnuthealth.club" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/startups/freelance mantra.jpeg" alt="" class="card-logo">
+							<h5 class="card-title">Freelance Mantra</h5>
+							<p>Freelance Mantra is an online platform working and helping businesses find more flexibility and connecting talent with more opportunities</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="https://www.freelancemantra.com/" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/startups/monkhood.png" alt="" class="card-logo">
+							<h5 class="card-title">Monkhood</h5>
+							<p>MONKHOOD LIVING SOLUTIONS strives to eliminate all your rental hassles, no matter if you are renting or providing a rental</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="https://monkhood.in/" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
+				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
+				<div class="card-container">
+					<div class="card card-flip">
+						<div class="front card-block">
+							<img src="./images/startups/mmmart.png" alt="" class="card-logo">
+							<h5 class="card-title">MM Mart</h5>
+							<p>MM Mart Start-Up</p>
+						</div>
+						<div class="back card-block">
+							<a href="./startups/ampereplus.html" class="mt-0 link color-main">More Info</a>
+							<a href="http://echio.in/" class="mt-0 link color-main">Visit Website</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="col-lg-3 col-md-6 col-sm-12 startups" data-aos-duration="600" data-aos="zoom-in" data-aos-delay="0">
 				<!-- <img src="./images/test.jpg" class="radius10 img-fluid" alt="" /> -->
 				<div class="card-container">
