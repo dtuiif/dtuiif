@@ -112,6 +112,14 @@ export const startups = [
         website: "www.geniegig.com"
     },
     {
+        name: "Offset Global Technologies",
+        founder: "sankalp suman",
+        descp: "Offset-Go aims to create a sustainable ecosystem for India’s transition to a Net-Zero country without compromising on other development aspirations of the country",
+        img: "./images/startups/Offset Global Technologies.png",
+        info_page: "",
+        website: "https://www.offsetgo.earth/"
+    },
+    {
         name: "MM Mart",
         founder: "MANISH KUMAR",
         descp: "",
@@ -164,6 +172,22 @@ export const startups = [
         founder: "Vedant Sharma",
         descp: "",
         img: "./images/startups/REACTR.png",
+        info_page: "",
+        website: ""
+    },
+    {
+        name: "Nikiez",
+        founder: "Nikhila Joshi",
+        descp: "",
+        img: "./images/startups/Nikiez.jpeg",
+        info_page: "",
+        website: ""
+    },
+    {
+        name: "Uvah Care",
+        founder: "Natwar Jha",
+        descp: "",
+        img: "./images/startups/Uvah Care.png",
         info_page: "",
         website: ""
     },
